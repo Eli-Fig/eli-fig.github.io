@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Genome-Assembly-and-Annotation-Section-Report', 'Microbiome-Assignment'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['eli-fig/Genome-Assembly-and-Annotation-Section-Report', 'eli-fig/Microbiome-Assignment'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
